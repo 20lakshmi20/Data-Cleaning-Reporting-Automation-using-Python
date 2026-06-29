@@ -1,0 +1,7 @@
+DATA CLEANING REPORT
+===================
+
+Total Records: 500
+Missing Salary Fixed
+Missing Experience Fixed
+Duplicates Removed
